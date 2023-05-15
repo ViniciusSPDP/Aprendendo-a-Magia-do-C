@@ -14,6 +14,10 @@ Ainda há muito a aprender, muitos desafios a serem superados, mas cada pequena 
 
 Estou ansioso para compartilhar mais sobre a minha jornada com vocês e para descobrir o que o futuro reserva para mim nesta jornada emocionante.
 
+> comando base para o C
+- gcc arquivo.c -o programa
+- ./programa
+
 **Até a próxima atualização!**
 
 _Assinado, um novo e animado programador em treinamento._
